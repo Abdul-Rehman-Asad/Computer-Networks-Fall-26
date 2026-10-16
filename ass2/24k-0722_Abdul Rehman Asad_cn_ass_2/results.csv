@@ -1,7 +1,0 @@
-case,protocol,packets,window,seq_bits,loss_probability,corruption_probability,delay_probability,transmissions,retransmissions,delivered,completion_time_ms,throughput_kbps,execution_time_s,seed
-A_Reliable,GBN,200,4,3,0.0,0.0,0.0,200,0,200,25212.0,63.46,0.007669,722
-A_Reliable,SR,200,4,3,0.0,0.0,0.0,200,0,200,25212.0,63.46,0.007027,722
-B_Loss 0.10,GBN,200,4,3,0.1,0.0,0.0,288,88,200,43588.0,36.71,0.016225,722
-B_Loss 0.10,SR,200,4,3,0.1,0.0,0.0,248,48,200,41604.0,38.46,0.010018,722
-C_Mixed errors,GBN,200,4,3,0.05,0.05,0.1,331,131,200,54684.0,29.26,0.008554,722
-C_Mixed errors,SR,200,4,3,0.05,0.05,0.1,281,81,200,46342.9,34.53,0.008639,722
