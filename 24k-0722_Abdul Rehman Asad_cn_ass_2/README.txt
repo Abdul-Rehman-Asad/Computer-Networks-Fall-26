@@ -11,7 +11,6 @@ FILES
   gbn_vs_sr.png          graph: retransmissions, completion time, throughput (GBN vs SR)
   report.docx            report (approach, implementation, experiments, results, comparison,
                          conclusion + Tasks 1, 2 and 5)
-  sample_logs/           event logs for the Task-2 scenario (10 packets, packet 2 lost)
 
 REQUIREMENTS
   Python 3.9+.  matplotlib is needed only for the graph:  python -m pip install matplotlib
